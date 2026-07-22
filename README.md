@@ -1,4 +1,6 @@
 <p align="center">
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/d714c35e-de44-4219-b97f-1d654603f745.svg?orgId=320408544746)](https://app.soluble.cloud/repos/details/github.com/jsoehner/necrobrowser?orgId=320408544746)  
   <img alt="Necrobrowser Logo" src="./media/img/necrobrowser-logo.jpg"
    height="160" /><br>
 	<i>help us with a logo</i>
